@@ -6,14 +6,14 @@
         id        = "com.phonegap.hello-world"
         version   = "1.0.0">
 
-    <name>HealthPartnersREDCap</name>
+    <name>Institute of Human Virology Nigeria </name>
 
     <description>
-        Apps From HealthPartners Institute for Education and Research
+        Apps From Institute of Human Virology Nigeria
     </description>
 
-    <author href=" " email="vijayakumar.x.thirumalai@healthpartners.com">
-        HealthPartners Research Informatics and Information Services
+    <author href=" " email="jjames@ighvnigeria.org">
+        Institute of Human Virology Nigeria
     </author>
 
     <!--
